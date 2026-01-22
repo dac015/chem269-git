@@ -1,3 +1,3 @@
 Hello, Colab! This is a new text file created in a specific folder.
 
-Edited from GitHub interface!
+This is Terry editing...
