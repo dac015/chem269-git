@@ -28,3 +28,5 @@ Author: dac015 <dac015@ucsd.edu>
 Date:   Tue Jan 20 21:27:38 2026 +0000
 
     Added a notes.txt file
+origin	https://github.com/dac015/chem269-git.git (fetch)
+origin	https://github.com/dac015/chem269-git.git (push)
