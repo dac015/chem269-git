@@ -1,0 +1,30 @@
+commit 462b8bce13ea30642c826a29ad92ffed12ea4541
+Merge: 72531f5 121e3a4
+Author: Terry <terry80242@gmail.com>
+Date:   Thu Jan 22 21:21:24 2026 +0000
+
+    Merge branch 'main' of https://github.com/dac015/chem269-git
+
+commit 72531f59e94ae5c638562626e3df17cdc37b485c
+Author: Terry <terry80242@gmail.com>
+Date:   Thu Jan 22 21:00:51 2026 +0000
+
+    Terry first commit
+
+commit 121e3a495bcda732e92d3ed449d2bfcb4fc77e11
+Author: dac015 <dac015@ucsd.edu>
+Date:   Thu Jan 22 12:57:56 2026 -0800
+
+    updated notes.txt with a small message
+
+commit ac43d614629c17149502eb32011bf21ecc3c9774
+Author: dac015 <dac015@ucsd.edu>
+Date:   Tue Jan 20 13:32:06 2026 -0800
+
+    Update notes.txt
+
+commit 439967be13e0d2946f8b814a8e6294d0c3f95763
+Author: dac015 <dac015@ucsd.edu>
+Date:   Tue Jan 20 21:27:38 2026 +0000
+
+    Added a notes.txt file
